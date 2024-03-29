@@ -13,3 +13,7 @@ nav a {
 .container {
     padding: 20px;
 }
+
+#conteudo {
+    line-height: 1.5;
+}
