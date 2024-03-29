@@ -5,3 +5,7 @@ header {
 h1, h2 {
     font-family: serif;
 }
+
+nav a {
+    font-weight: bold;
+}
